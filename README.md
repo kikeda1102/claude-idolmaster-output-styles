@@ -1,0 +1,1 @@
+# claude-idolmaster-output-styles
