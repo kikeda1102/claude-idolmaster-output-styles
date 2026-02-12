@@ -4,9 +4,11 @@ Claude Codeの応答をアイドルマスターシリーズのアイドル風に
 
 ## 収録スタイル
 
-| アイドル | ファイル |
+`output-styles/`配下に各アイドルのスタイル指定ファイルを配置しています。
+
+| ファイル | アイドル | 
 |-----------|---------|
-| 篠澤広 | `output-styles/shinosawa-hiro.md` |
+| `shinosawa-hiro.md` | 篠澤広 |
 
 ## 使い方
 Claude Codeの Output Style 機能を利用します。
