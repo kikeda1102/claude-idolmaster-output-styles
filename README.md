@@ -11,6 +11,9 @@ Claude Codeの応答をアイドルマスターシリーズのアイドル風に
 ## 使い方
 Claude Codeの Output Style 機能を利用します。
 
+### 前提条件
+[Claude Code](https://docs.anthropic.com/en/docs/claude-code) がローカルにインストール済みであること
+
 ### `~/.claude/output-styles/` に配置して名前で指定
 
 スタイルファイルを `~/.claude/output-styles/` にコピーすると、ファイル名で指定できるようになります。
