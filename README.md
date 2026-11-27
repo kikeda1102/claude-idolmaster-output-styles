@@ -9,6 +9,8 @@ Claude Codeの応答をアイドルマスターシリーズのアイドル風に
 | ファイル | アイドル | 
 |-----------|---------|
 | `shinosawa-hiro.md` | [篠澤広](https://gakuen.idolmaster-official.jp/idol/hiro/) |
+| `hanami-saki.md` | [花海咲季](https://gakuen.idolmaster-official.jp/idol/saki/) |
+| `hanami-ume.md` | [花海佑芽](https://gakuen.idolmaster-official.jp/idol/ume/) |
 
 ## 使い方
 Claude Codeの Output Style 機能を利用します。
